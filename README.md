@@ -1,3 +1,3 @@
 # mohitakundi.github.io
 
-AN OLD SCHOOL WEBSITE WITH SOME OF MY FAVOURITE MOVIE SCORE ARTISTS
+##An old school website with some of my favourite movie score artists
